@@ -9,3 +9,5 @@ project, but maintenance seems to have stopped since around 2012.
 This code is taken over and adapted for recent PostgreSQL versions.
 
 For more information about using eudc, see [doc/eudc.md](https://github.com/harukat/eudc/blob/master/doc/eudc.md)
+
+**This project moved to https://github.com/sraoss/eudc**
